@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on 斐翟.网志</title>
+    <link>http://yizimublog.github.io/article/</link>
+    <description>Recent content in Articles on 斐翟.网志</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Nov 2022 16:46:04 +0800</lastBuildDate><atom:link href="http://yizimublog.github.io/article/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guhugo基本语法</title>
+      <link>http://yizimublog.github.io/article/202211061646/</link>
+      <pubDate>Sun, 06 Nov 2022 16:46:04 +0800</pubDate>
+      
+      <guid>http://yizimublog.github.io/article/202211061646/</guid>
+      <description>判断
+{{if int}}text{{end}} 判断int是否存在，若存在将输出text {{if not int}}text{{end}} 判断int是否存在，若不存在将输出text 注释
+{{/* comment */}} </description>
+    </item>
+    
+    <item>
+      <title>Hello Gohugo</title>
+      <link>http://yizimublog.github.io/article/202211050016/</link>
+      <pubDate>Sat, 05 Nov 2022 00:16:56 +0800</pubDate>
+      
+      <guid>http://yizimublog.github.io/article/202211050016/</guid>
+      <description>今天脑抽把服务器清空了&amp;hellip;.，无奈只能重新搭建博客
+以前的文章无法找回，问题不大😭
+从前几天就想要转博客系统，Halo系统不错，但对我这种一个月都不一定更新一次文章的人来讲，
+用服务器确实有些浪费，借着这个契机，索性就转Gohugo
+不选择Haxo的原因是因为文章生成较慢，不知是不是我设置的原因
+找了一圈没找到自己心仪的主题，索性手撸一个
+前两天看番剧《仙王的日常生活》发现番内一闪而过的官网挺好看的
+搞出来以后发现跟动漫里的相似，但又不相似，可能这就是图片仅供参考吧
+正愁没有模板的时候，WeChat群内看到了一张图片，这不就是我苦苦寻找的简约模板吗
+如你所见，Chinese-Red模板
+前端知识无限接近于零，只能做成这样了&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
